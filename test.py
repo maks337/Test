@@ -6,6 +6,8 @@ def test_nod(a, b):
     return a
 
 
+
+
 def fact(num):
     n = 1
     for i in range(num + 1):
